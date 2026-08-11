@@ -1,0 +1,6 @@
+[tool.ty.environment]
+extra-paths = [
+    "../Odoo/odoo-19.0",
+    "C:/Users/PC/OneDrive/Escritorio/Odoo/odoo-19.0",
+    "C:\\Users\\PC\\OneDrive\\Escritorio\\Odoo\\odoo-19.0"
+]

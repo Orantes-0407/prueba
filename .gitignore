@@ -1,0 +1,21 @@
+# --- Entornos virtuales y Python ---
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- IDEs y Editores de Código ---
+.idea/
+.vscode/
+
+# --- Código fuente y addons oficiales de Odoo (No subir a Git) ---
+odoo-19.0/
+enterprise-19.0/
+
+# --- Archivos temporales del sistema operativo ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.log
